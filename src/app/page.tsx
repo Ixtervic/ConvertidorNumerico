@@ -41,7 +41,7 @@ export default function Home() {
         </div>
       </main>
       <footer className="mt-auto border-t bg-card p-4 text-center text-sm text-muted-foreground">
-        <p>Creado con ❤️ usando Next.js y ShadCN/UI.</p>
+        <p>JHHC tel: 7713492514</p>
       </footer>
     </div>
   );
